@@ -23,7 +23,7 @@ Static recipe website, flexible and mobile friendly.
 
 ### Screenshot
 
-![Screenshot of webpage. Picture of Omelett, description, preparation time and ingredients of the recipe](./project-screenshot)
+![Screenshot of webpage. Picture of Omelett, description, preparation time and ingredients of the recipe](https://github.com/ricardoacz/frontend-repo/blob/main/recipe-page-main/project-screenshot.png?raw=true)
 
 ### Links
 
