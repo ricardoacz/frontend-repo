@@ -26,8 +26,8 @@ Static recipe website, flexible and mobile friendly.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ricardoacz/frontend-repo/tree/main/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://rcfrontendmentor-recipe-page.netlify.app/)
+- Solution URL: [[Add solution URL here](https://github.com/ricardoacz/frontend-repo/tree/main/recipe-page-main)](https://github.com/ricardoacz/frontend-repo/tree/main/recipe-page-main)
+- Live Site URL: [[Add live site URL here](https://rcfrontendmentor-recipe-page.netlify.app/)](https://rcfrontendmentor-recipe-page.netlify.app/)
 
 ## My process
 
