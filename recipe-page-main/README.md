@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
 
 ## Table of contents
 
@@ -28,14 +28,21 @@ Static recipe website, flexible and mobile friendly.
 
 ## My process
 
+- I started building the html first for the main site and use sections to organize blocks of contents.
+- I create my style from top to bottom, using and resuing classes to keep it simple.
+- For mobile, I created new html lines that I would show and hide depending on the resolution of the client device.
+- I used the reference photos to check proportions and I tested the mobile verion of the site on my own phone.
+
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 
 ### What I learned
 
 I reviewed how to float elements to create the list at the end for the nutrition values. I played around with html classes and containers to organize the content on the page when applying css to it.
+
+Html elemenst to create the a line of nutrition property and value.
 
 ```html
 <div class="nutrition-item">
@@ -47,6 +54,8 @@ I reviewed how to float elements to create the list at the end for the nutrition
           </div>
         </div>
 ```
+CSS rules to keep the nutrition property and value in one line. I used the border property to better visualize each element when necessary.
+
 ```css
 .nutrition {
     font-family: 'outfit', Arial, Helvetica, sans-serif;;
