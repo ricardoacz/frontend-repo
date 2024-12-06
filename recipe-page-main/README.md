@@ -13,7 +13,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -38,7 +37,7 @@ Static recipe website, flexible and mobile friendly.
 
 ### What I learned
 
-I review how to float elements, which is I did to create the list at the end. Playaround with classes and containers to organize it.
+I reviewed how to float elements to create the list at the end for the nutrition values. I played around with html classes and containers to organize the content on the page when applying css to it.
 
 ```html
 <div class="nutrition-item">
@@ -83,7 +82,7 @@ I review how to float elements, which is I did to create the list at the end. Pl
 
 ### Continued development
 
-I want to practice more using media queries to adjust the elements to fit better and tablet in vertical mode.
+I want to practice more with media queries to adjust the elements to fit better when viewing the site on a tablet in vertical mode.
 
 ### Useful resources
 
